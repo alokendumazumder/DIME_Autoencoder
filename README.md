@@ -1,6 +1,8 @@
 # DIME: Deterministic Information Maximizing Autoencoders
 _This is the official repository of our paper "DIME: Deterministic Information Maximizing Autoencoder". [Paper Link](https://iclr.cc/virtual/2025/35364)_
 
+_Accepted @ ICLR 2025 Workshops._
+
 **Authors:** Alokendu Mazumder¹, Chirag Garg², Tirthajit Baruah¹, Punit Rathore¹  
 ¹ Robert Bosch Center for Cyber Physical Systems, IISc Bengaluru • ² National Institute of Technology, Raipur.
 
