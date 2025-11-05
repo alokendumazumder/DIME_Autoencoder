@@ -1,8 +1,8 @@
 # DIME: Deterministic Information Maximizing Autoencoders
-_This is the official repository of our paper "DIME:Deterministic Information Maximizing Autoencoder". [Paper Link]([https://example.com/your-paper](https://iclr.cc/virtual/2025/35364))
+_This is the official repository of our paper "DIME:Deterministic Information Maximizing Autoencoder". [Paper Link](https://iclr.cc/virtual/2025/35364)
 ._
 
-> This repo demonstrates end-to-end ownership of a modern ML idea—from objective design to clean, reproducible training, generation, and evaluation. The code is modular, readable, and built for fast ablations.
+> This repo demonstrates end-to-end ownership of our paper DIME, from objective design to clean, reproducible training, generation, and evaluation. The code is modular, readable, and built for fast ablations.
 
 ---
 
