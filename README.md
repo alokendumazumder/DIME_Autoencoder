@@ -3,7 +3,7 @@ _This is the official repository of our paper "DIME: Deterministic Information M
 
 **Authors:** Alokendu Mazumder¹, Chirag Garg², Tirthajit Baruah¹, Punit Rathore¹  
 ¹ Robert Bosch Center for Cyber Physical Systems, IISc Bengaluru • ² National Institute of Technology, Raipur.
-._
+
 
 > This repo demonstrates end-to-end ownership of our paper DIME, from objective design to clean, reproducible training, generation, and evaluation. The code is modular, readable, and built for fast ablations.
 
