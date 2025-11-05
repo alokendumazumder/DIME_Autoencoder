@@ -1,7 +1,6 @@
 # DIME: Deterministic Information Maximizing Autoencoders
-_A compact, research-grade PyTorch repo for learning informative latent spaces with a simple, stable objective._
+_A compact, PyTorch repo for learning informative latent spaces with a simple deterministic autoencders._
 
-> **Pitch for hiring managers:**  
 > This repo demonstrates end-to-end ownership of a modern ML idea—from objective design to clean, reproducible training, generation, and evaluation. The code is modular, readable, and built for fast ablations.
 
 ---
